@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/geo_linestring.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/geo_point.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/geo_polygon.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/randgeo-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/rg_position.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/wkt_linestring.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/wkt_point.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/reference/wkt_polygon.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/randgeo/articles/randgeo.html</loc>
+  </url>
+</urlset>

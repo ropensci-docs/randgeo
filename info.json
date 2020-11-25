@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "03edaacd51b6c3d78bc9d97551151c3095e19838",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-11-25 16:30:35",
+    "files": 2,
+    "merge": false,
+    "message": "rename vignette to get under getting started in docs\n"
+  },
+  "remote": "https://github.com/ropensci/randgeo",
+  "pkg": "randgeo"
+}
